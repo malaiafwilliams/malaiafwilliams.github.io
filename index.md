@@ -4,7 +4,7 @@ layout: default
 
 # Malaia Williams Portfolio
 
-My name is Malaia Williams and I am a student at California State University, Fullerton majoring in Computer Science. I am intesrested in software development, problem solving, and continuing to grow my programming skills trhought future projects and coursework.
+My name is Malaia Williams and I am a student at California State University, Fullerton majoring in Computer Science. I am interested in software development, problem solving, and continuing to grow my programming skills through future projects and coursework.
 
 ## GitHub Profile
 
