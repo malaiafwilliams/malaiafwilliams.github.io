@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Malaia Williams Portfolio
 
 My name is Malaia Williams and I am a student at California State University, Fullerton majoring in Computer Science.
