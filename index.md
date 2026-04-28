@@ -8,7 +8,7 @@ My name is Malaia Williams and I am a student at California State University, Fu
 
 ## GitHub Profile
 
-https://github.com/malaiafwilliams
+[My GitHub Profile](https://github.com/malaiafwilliams)
 
 ## CPSC 120 Favorite Labs
 
